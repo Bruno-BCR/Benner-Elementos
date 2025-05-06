@@ -1,0 +1,12 @@
+Nos arquivos .cs estão os testes em versões Inglesa e Portuguesa, escrito originalmente em Inglês e trascrito via IA para português.
+Nos arquivo .zip está o projeto ajustado para rodar em HTML visualmente o projeto..
+Para rodar ele, descompacte a pasta, rode com o "dotnet run" e entre no localhost:5000
+
+Ao colocar o número de elementos, basta clicar e arrastar de um elemento para outro para criar uma conexão.
+Para desfazer uma conexão basta dar dois cliques em um elemento (desfaz todas as conexões daquele elemento).
+
+Nos relatórios na direita está quantos elementos tem conexão, e quais conexões e tipos
+Nível 2 de conexão significa que não está diretamente conectado, tendo assim um intermediário, no caso de Nível 3, serão 2 intermediários e assim em diante.
+Elementos sem conexão aparecem também.
+
+O código não ficou limpo devido a ser apenas testes de conhecimento com HTML, portanto não está funcionando com infinitos elementos.
